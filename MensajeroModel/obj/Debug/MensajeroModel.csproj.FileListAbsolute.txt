@@ -1,0 +1,6 @@
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\bin\Debug\MensajeroModel.dll
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\bin\Debug\MensajeroModel.pdb
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\obj\Debug\MensajeroModel.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\obj\Debug\MensajeroModel.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\obj\Debug\MensajeroModel.dll
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroModel\obj\Debug\MensajeroModel.pdb

@@ -1,0 +1,10 @@
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe.config
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.pdb
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\bin\Debug\MensajeroModel.dll
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\bin\Debug\MensajeroModel.pdb
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CopyComplete
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.exe
+C:\Users\PERSONAL\source\repos\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.pdb

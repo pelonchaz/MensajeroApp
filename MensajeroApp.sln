@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroApp", "MensajeroApp\MensajeroApp.csproj", "{7616A462-C042-4D4A-B8A0-1FFAEFC2438C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MensajeroModel", "MensajeroModel\MensajeroModel.csproj", "{9E54072A-C206-40EB-98D5-846F9266B20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7616A462-C042-4D4A-B8A0-1FFAEFC2438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7616A462-C042-4D4A-B8A0-1FFAEFC2438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7616A462-C042-4D4A-B8A0-1FFAEFC2438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7616A462-C042-4D4A-B8A0-1FFAEFC2438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E54072A-C206-40EB-98D5-846F9266B20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E54072A-C206-40EB-98D5-846F9266B20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E54072A-C206-40EB-98D5-846F9266B20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E54072A-C206-40EB-98D5-846F9266B20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FDC100-4251-47C4-A056-769C8842E2B7}
+	EndGlobalSection
+EndGlobal
